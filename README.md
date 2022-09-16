@@ -11,3 +11,5 @@ Make sure you install the following programs into your machine:
 3. Apache NetBeans(for my case am using version 12.5)
 4. Java development kit (also configure the path appropriately)
 5. Visual Studio Code (optional)
+
+Name your master folder "Mnagei Library Management System".
